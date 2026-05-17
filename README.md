@@ -7,4 +7,6 @@
 - Simpler Instructions, and optimized functions.
 - Resulting in... *More FPS*.
   - Testing shows the game hangs above 60+ FPS. Instead of Around ~40 FPS.
-  - Occasional drops, but that's presumably because of the GPU.
+  - Occasional drops (not as many as the BaseGame Shaders).
+    - But that's presumably because of the Engine itself.
+  - Weather should be alot smother as well.
